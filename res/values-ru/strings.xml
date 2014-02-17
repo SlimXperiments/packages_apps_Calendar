@@ -80,6 +80,12 @@
     <string name="empty_event" msgid="9018699257414338634">"Нельзя создать мероприятие без данных."</string>
     <string name="creating_event_with_guest" msgid="5758688413124191931">"Приглашения будут отправлены."</string>
     <string name="saving_event_with_guest" msgid="9184584438475689577">"Обновления будут отправлены."</string>
+    <!-- Toast message displayed responding to an event from an email as accepted	[CHAR LIMIT=50] -->
+    <string name="rsvp_accepted">"Ответ \"Да\"".</string>
+    <!-- Toast message displayed responding to an event from an email as tentative [CHAR LIMIT=50] -->
+    <string name="rsvp_tentative">"Ответ \"Возможно\"".</string>
+    <!-- Toast message displayed responding to an event from an email as declined [CHAR LIMIT=50] -->
+    <string name="rsvp_declined">"Ответ \"Нет\"".</string>
     <string name="create_event_dialog_save" msgid="1080859798521717414">"Сохранить"</string>
     <string name="alert_title" msgid="7869592820853066853">"Уведомления календаря"</string>
     <string name="event_info_title" msgid="56024222340421620">"Просмотр мероприятия"</string>
